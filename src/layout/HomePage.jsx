@@ -1,11 +1,11 @@
 import React from "react";
 import Carousel from "../componets/Carousel";
-import CarouselTwo from "../componets/CarouselTwo";
+import CarouselEvent from "../componets/CarouselEvent";
 
 function HomePage() {
   return (
     <>
-      <CarouselTwo />
+      <CarouselEvent />
     </>
   );
 }
